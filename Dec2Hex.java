@@ -37,7 +37,8 @@ class Dec2Hex
       }
         //printing end statement for program no matter what try catch does, 
 	//as program will not loop round after initial input 
-        finally
+        //hello
+	finally
         {
          system.out.println("end of program");
         }
