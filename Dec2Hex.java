@@ -35,7 +35,7 @@ class Dec2Hex
       {
         System.out.println("error, non convertable data entered");
       }
-        //printing end statement for program no matter what try catch does, ending program as am not looping till i g>
+        //printing end statement for program no matter what try catch does, ending program as am not looping till i get a correct input
         finally
         {
          system.out.println("end of program");
